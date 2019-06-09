@@ -1,4 +1,4 @@
-def using_while
+def using_unil
   # this counts when to break the loop
   levitation_force = 6
 	
@@ -8,4 +8,4 @@ def using_while
   end
 end
 
-using_while
+using_until
