@@ -1,6 +1,6 @@
 def using_until
   # this counts when to break the loop
-  levitation_force = 7
+  levitation_force = 6
 	
   until levitation_force == 10
     puts "Wingardium Leviosa"
